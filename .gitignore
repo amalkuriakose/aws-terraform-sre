@@ -36,3 +36,4 @@ terraform.rc
 # Lock file
 .terraform.lock.hcl
 *.pem
+private*
